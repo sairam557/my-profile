@@ -25,7 +25,7 @@ const App = () => {
           id="about"
           className="text-center py-12"
         >
-          <h1 className="text-6xl font-extrabold text-cyan-400 drop-shadow-lg tracking-widest">chandan Ramesh kr</h1>
+          <h1 className="text-6xl font-extrabold text-cyan-400 drop-shadow-lg tracking-widest"> Ramesh kr</h1>
           <p className="text-xl text-gray-400 mt-4">DevOps Engineer | Cloud & Automation Enthusiast</p>
         </motion.header>
 
