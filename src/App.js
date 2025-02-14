@@ -25,7 +25,7 @@ const App = () => {
           id="about"
           className="text-center py-12"
         >
-          <h1 className="text-6xl font-extrabold text-cyan-400 drop-shadow-lg tracking-widest">chandan Ramesh</h1>
+          <h1 className="text-6xl font-extrabold text-cyan-400 drop-shadow-lg tracking-widest">chandan Ramesh kr</h1>
           <p className="text-xl text-gray-400 mt-4">DevOps Engineer | Cloud & Automation Enthusiast</p>
         </motion.header>
 
@@ -56,7 +56,7 @@ const App = () => {
           id="contact"
           className="w-full max-w-4xl text-center mt-8 bg-gray-800 p-8 rounded-xl shadow-lg border border-cyan-500"
         >
-          <h2 className="text-3xl font-semibold text-cyan-400 mb-6">Contssfsfswgdgdgdact</h2>
+          <h2 className="text-3xl font-semibold text-cyan-400 mb-6">banglore</h2>
           <div className="flex justify-center space-x-8">
             {[
               { href: "mailto:chandanramesh73@gmail.com", icon: <FaEnvelope /> },
